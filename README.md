@@ -1,3 +1,3 @@
-* **Name:** \Rishabh Kumar\
-* **University:** \IIT Kanpur\
-* **Department:** \Civil Engineering\
+* **Name:** Rishabh Kumar
+* **University:** IIT Kanpur
+* **Department:** Civil Engineering
