@@ -1,1 +1,3 @@
-# Academic-Study-Agent-Prototype
+Name : Rishabh Kumar
+University : IIT Kanpur
+Department : Civil Engineering
